@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "user_id": "user_alice",
+      "name": "Alice",
+      "preferences": {
+        "budget": "serré",
+        "bio": false,
+        "vegan": false
+      },
+      "description": "Budget serré, préfère les marques distributeur",
+      "favorite_brands": {
+        "pates": "Carrefour",
+        "lait": "Carrefour",
+        "yaourt": "Carrefour",
+        "chips": "Carrefour",
+        "chocolat": "Carrefour"
+      },
+      "dislikes": [
+        "Président",
+        "Lindt"
+      ]
+    },
+    {
+      "user_id": "user_bob",
+      "name": "Bob",
+      "preferences": {
+        "budget": "moyen",
+        "bio": true,
+        "vegan": false
+      },
+      "description": "Flexitarien, aime le bio, budget moyen",
+      "favorite_brands": {
+        "pates": "Lustucru",
+        "lait": "Lactel",
+        "yaourt": "Danone",
+        "chips": "Lay's"
+      },
+      "dislikes": [
+        "Coca-Cola"
+      ]
+    },
+    {
+      "user_id": "user_clara",
+      "name": "Clara",
+      "preferences": {
+        "budget": "large",
+        "bio": true,
+        "vegan": true
+      },
+      "description": "Vegan, premium, très fidèle à ses marques",
+      "favorite_brands": {
+        "lait": "Oatly",
+        "yaourt": "Alpro",
+        "chocolat": "Lindt Excellence"
+      },
+      "dislikes": [
+        "Herta",
+        "Charal",
+        "Fleury Michon"
+      ]
+    }
+  ]
+}
